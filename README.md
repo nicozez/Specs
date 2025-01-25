@@ -1,6 +1,6 @@
 # Frame Firmware & RTL Codebase
 
-Welcome to the complete codebase of the Frame hardware. For regular usage, check out the docs [here](https://docs.brilliant.xyz).
+Welcome to 'Nico's...' complete codebase of the Frame hardware. For regular usage, check out the docs [here](https://docs.brilliant.xyz).
 
 ## System architecture
 
