@@ -1,6 +1,6 @@
 # Frame Firmware & RTL Codebase
 
-Welcome to 'Nico's...' complete codebase of the Frame hardware. For regular usage, check out the docs [here](https://docs.brilliant.xyz).
+This is Nico, taking over Brilliant Labs AI Specs documentation to add capacities to the lenses. For regular usage, check out the docs [here](https://docs.brilliant.xyz).
 
 ## System architecture
 
